@@ -1,4 +1,4 @@
-Next Portfolio website Example\ 
+Next Portfolio website Example
 Thanks to lamadev https://www.youtube.com/@LamaDev
 
 
